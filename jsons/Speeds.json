@@ -1,6 +1,6 @@
 [
     {
-        "name": "⚡️Very Quick⚡️",
+        "name": "Very Quick",
         "modifier": 0.49,
         "productionCostModifier": 0.49,
         "goldCostModifier": 0.49,
@@ -28,7 +28,7 @@
         ]
     },
     {
-        "name": "🔥Quick🔥",
+        "name": "Quick",
         "modifier": 0.67,
         "productionCostModifier": 0.67,
         "goldCostModifier": 0.67,
@@ -56,7 +56,7 @@
         ]
     },
     {
-        "name": "🪦Older Age🪦",
+        "name": "Older Age",
         "modifier": 1.0,
         "productionCostModifier": 1,
         "goldCostModifier": 1,
@@ -84,7 +84,7 @@
         ]
     },
     {
-      "name": "😐normal😐",
+      "name": "normal",
         "modifier": 1,
         "productionCostModifier": 1,
         "goldCostModifier": 1,
@@ -112,7 +112,7 @@
         ]
     },
      {
-         "name": "💰Golden Age💰",
+         "name": "Golden Age",
         "modifier": 0.87,
         "productionCostModifier": 0.57,
         "goldCostModifier": 0.37,
@@ -140,7 +140,7 @@
         ]
     },
      {
-       "name": "🗿Epic🗿",
+       "name": "Epic",
         "modifier": 1.67,
         "productionCostModifier": 1.67,
         "goldCostModifier": 1.67,
