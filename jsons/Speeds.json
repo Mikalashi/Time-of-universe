@@ -167,7 +167,7 @@
             {"yearsPerTurn":  2, "untilTurn": 330}
         ]
     },
-]    {
+     {
        "name": "Ingeneria Age",
         "modifier": 0.96,
         "productionCostModifier": 0.84,
@@ -195,3 +195,4 @@
             {"yearsPerTurn":  7, "untilTurn": 330}
         ]
     },
+]
