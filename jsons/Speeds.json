@@ -28,7 +28,7 @@
         ]
     },
     {
-        "name": "Quick",
+        "name": "Quicke",
         "modifier": 0.67,
         "productionCostModifier": 0.67,
         "goldCostModifier": 0.67,
@@ -167,4 +167,31 @@
             {"yearsPerTurn":  2, "untilTurn": 330}
         ]
     },
-]
+]    {
+       "name": "Ingeneria Age",
+        "modifier": 0.96,
+        "productionCostModifier": 0.84,
+        "goldCostModifier": 1.07,
+        "scienceCostModifier": 0.37,
+        "cultureCostModifier": 0.98,
+        "faithCostModifier": 1.25,
+        "improvementBuildLengthModifier": 0.47,
+        "barbarianModifier": 1.3,
+        "goldGiftModifier": 1.65,
+        "cityStateTributeScalingInterval": 7.5,
+        "goldenAgeLengthModifier": 1.28,
+        "religiousPressureAdjacentCity": 9,
+        "peaceDealDuration": 7,
+        "dealDuration": 30,
+        "startYear": -12500,
+        "turns": [
+            {"yearsPerTurn": 150, "untilTurn":  50},
+            {"yearsPerTurn": 110, "untilTurn":  80},
+            {"yearsPerTurn": 80, "untilTurn": 100},
+            {"yearsPerTurn": 50, "untilTurn": 130},
+            {"yearsPerTurn": 30, "untilTurn": 155},
+            {"yearsPerTurn":  20, "untilTurn": 195},
+            {"yearsPerTurn":  15, "untilTurn": 260},
+            {"yearsPerTurn":  7, "untilTurn": 330}
+        ]
+    },
