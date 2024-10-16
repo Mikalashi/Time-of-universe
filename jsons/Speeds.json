@@ -1,6 +1,34 @@
 [
     {
-        "name": "Quick",
+        "name": "⚡️Very Quick⚡️",
+        "modifier": 0.49,
+        "productionCostModifier": 0.49,
+        "goldCostModifier": 0.49,
+        "scienceCostModifier": 0.61,
+        "cultureCostModifier": 0.49,
+        "faithCostModifier": 0.49,
+        "improvementBuildLengthModifier": 0.49,
+        "barbarianModifier": 1.0,
+        "goldGiftModifier": 1.35,
+        "cityStateTributeScalingInterval": 4.5,
+        "goldenAgeLengthModifier": 0.73,
+        "religiousPressureAdjacentCity": 10,
+        "peaceDealDuration": 4,
+        "dealDuration": 25,
+        "startYear": -8000,
+        "turns": [
+            {"yearsPerTurn": 140, "untilTurn":  50},
+            {"yearsPerTurn": 110, "untilTurn":  80},
+            {"yearsPerTurn": 80, "untilTurn": 100},
+            {"yearsPerTurn": 50, "untilTurn": 130},
+            {"yearsPerTurn": 30, "untilTurn": 155},
+            {"yearsPerTurn":  20, "untilTurn": 195},
+            {"yearsPerTurn":  15, "untilTurn": 260},
+            {"yearsPerTurn":  10, "untilTurn": 330}
+        ]
+    },
+    {
+        "name": "🔥Quick🔥",
         "modifier": 0.67,
         "productionCostModifier": 0.67,
         "goldCostModifier": 0.67,
@@ -27,3 +55,62 @@
             {"yearsPerTurn":  3, "untilTurn": 330}
         ]
     },
+    {
+        "name": "🪦Older Age🪦",
+        "modifier": 1.0,
+        "productionCostModifier": 1,
+        "goldCostModifier": 1,
+        "scienceCostModifier": 1,
+        "cultureCostModifier": 1,
+        "faithCostModifier": 1,
+        "improvementBuildLengthModifier": 1,
+        "barbarianModifier": 1.0,
+        "goldGiftModifier": 1.65,
+        "cityStateTributeScalingInterval": 3.0,
+        "goldenAgeLengthModifier": 1.1,
+        "religiousPressureAdjacentCity": 14,
+        "peaceDealDuration": 8,
+        "dealDuration": 25,
+        "startYear": -40000,
+        "turns": [
+            {"yearsPerTurn": 40, "untilTurn":  50},
+            {"yearsPerTurn": 20, "untilTurn":  80},
+            {"yearsPerTurn": 10, "untilTurn": 100},
+            {"yearsPerTurn": 6, "untilTurn": 130},
+            {"yearsPerTurn": 4, "untilTurn": 155},
+            {"yearsPerTurn":  3, "untilTurn": 195},
+            {"yearsPerTurn":  2, "untilTurn": 260},
+            {"yearsPerTurn":  1, "untilTurn": 330}
+        ]
+    },
+    {
+      "name": "😐normal😐",
+        "modifier": 1,
+        "productionCostModifier": 1,
+        "goldCostModifier": 1,
+        "scienceCostModifier": 1,
+        "cultureCostModifier": 1,
+        "faithCostModifier": 1,
+        "improvementBuildLengthModifier": 1,
+        "barbarianModifier": 1.0,
+        "goldGiftModifier": 1.25,
+        "cityStateTributeScalingInterval": 5.0,
+        "goldenAgeLengthModifier": 0.85,
+        "religiousPressureAdjacentCity": 9,
+        "peaceDealDuration": 5,
+        "dealDuration": 25,
+        "startYear": -4000,
+        "turns": [
+            {"yearsPerTurn": 50, "untilTurn":  50},
+            {"yearsPerTurn": 40, "untilTurn":  80},
+            {"yearsPerTurn": 30, "untilTurn": 100},
+            {"yearsPerTurn": 20, "untilTurn": 130},
+            {"yearsPerTurn": 10, "untilTurn": 155},
+            {"yearsPerTurn":  7, "untilTurn": 195},
+            {"yearsPerTurn":  5, "untilTurn": 260},
+            {"yearsPerTurn":  3, "untilTurn": 330}
+        ]
+    },
+
+
+
