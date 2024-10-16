@@ -111,6 +111,60 @@
             {"yearsPerTurn":  3, "untilTurn": 330}
         ]
     },
-
-
+     {
+         "name": "💰Golden Age💰",
+        "modifier": 0.87,
+        "productionCostModifier": 0.57,
+        "goldCostModifier": 0.37,
+        "scienceCostModifier": 0.87,
+        "cultureCostModifier": 0.77,
+        "faithCostModifier": 0.87,
+        "improvementBuildLengthModifier": 0.57,
+        "barbarianModifier": 1.0005,
+        "goldGiftModifier": 2.37,
+        "cityStateTributeScalingInterval": 3.0,
+        "goldenAgeLengthModifier": 3.15,
+        "religiousPressureAdjacentCity": 6,
+        "peaceDealDuration": 4,
+        "dealDuration": 25,
+        "startYear": -5000,
+        "turns": [
+            {"yearsPerTurn": 100, "untilTurn":  50},
+            {"yearsPerTurn": 70, "untilTurn":  80},
+            {"yearsPerTurn": 50, "untilTurn": 100},
+            {"yearsPerTurn": 30, "untilTurn": 130},
+            {"yearsPerTurn": 20, "untilTurn": 155},
+            {"yearsPerTurn":  10, "untilTurn": 195},
+            {"yearsPerTurn":  5, "untilTurn": 260},
+            {"yearsPerTurn":  3, "untilTurn": 330}
+        ]
+    },
+     {
+       "name": "🗿Epic🗿",
+        "modifier": 1.67,
+        "productionCostModifier": 1.67,
+        "goldCostModifier": 1.67,
+        "scienceCostModifier": 1.67,
+        "cultureCostModifier": 1.67,
+        "faithCostModifier": 1.67,
+        "improvementBuildLengthModifier": 1.61,
+        "barbarianModifier": 1.018,
+        "goldGiftModifier": 1.48,
+        "cityStateTributeScalingInterval": 6.0,
+        "goldenAgeLengthModifier": 1.59,
+        "religiousPressureAdjacentCity": 12.83,
+        "peaceDealDuration": 8,
+        "dealDuration": 29,
+        "startYear": -6000,
+        "turns": [
+            {"yearsPerTurn": 40, "untilTurn":  50},
+            {"yearsPerTurn": 30, "untilTurn":  80},
+            {"yearsPerTurn": 15, "untilTurn": 100},
+            {"yearsPerTurn": 10, "untilTurn": 130},
+            {"yearsPerTurn": 7, "untilTurn": 155},
+            {"yearsPerTurn":  5, "untilTurn": 195},
+            {"yearsPerTurn":  3, "untilTurn": 260},
+            {"yearsPerTurn":  2, "untilTurn": 330}
+        ]
+    },
 
